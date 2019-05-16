@@ -105,107 +105,135 @@ public class MainActivity extends AppCompatActivity {
             "我為什麼要像小學生一樣站在這裡.mp3",
             "我覺得.mp3",
             "我覺得是沒有什麼幫助的.mp3",
-            "我誠心的回答.mp3",
-            "才是個屁.mp3",
-            "找.mp3",
-            "接受.mp3",
-            "搞.mp3",
-            "搞2.mp3",
-            "放眼世界.mp3",
-            "政治.mp3",
-            "斯.mp3",
-            "是個屁.mp3",
-            "正.mp3",
-            "比較.mp3",
-            "沒有水準.mp3",
-            "沒有辦法.mp3",
-            "沒關係.mp3",
-            "洗澡.mp3",
-            "漫威.mp3",
-            "漫威公司.mp3",
-            "漫畫.mp3",
-            "激.mp3",
-            "無聊透頂.mp3",
-            "然後.mp3",
-            "然後勒.mp3",
-            "生命力全部放出來.mp3",
-            "生命力放出來以後.mp3",
-            "發大財.mp3",
-            "的.mp3",
-            "監督.mp3",
-            "看.mp3",
-            "眼睛瞎了嗎.mp3",
-            "硬.mp3",
-            "立足台灣.mp3",
-            "站在這裡.mp3",
-            "站起來.mp3",
-            "第一優先.mp3",
-            "等等.mp3",
-            "經.mp3",
-            "老斯.mp3",
-            "而且.mp3",
-            "胸懷大陸.mp3",
-            "自經區.mp3",
-            "舒服.mp3",
-            "行動.mp3",
-            "覺得很感動.mp3",
-            "觀光客.mp3",
-            "認真.mp3",
-            "誠心.mp3",
-            "說.mp3",
-            "說實在的.mp3",
-            "護理師.mp3",
-            "讓.mp3",
-            "負.mp3",
-            "財力.mp3",
-            "質詢.mp3",
-            "跳起來.mp3",
-            "軍人.mp3",
-            "較.mp3",
-            "送小抄.mp3",
-            "還沒有完全釋放出來.mp3",
-            "那.mp3",
-            "都是.mp3",
-            "都會.mp3",
-            "都要說.mp3",
-            "醫生.mp3",
-            "釋放出來.mp3",
-            "重點.mp3",
-            "野獸的行為.mp3",
-            "鋼鐵人.mp3",
-            "長.mp3",
-            "長2.mp3",
-            "關心.mp3",
-            "阿.mp3",
-            "雞.mp3",
-            "雞腿.mp3",
-            "非.mp3",
-            "非常.mp3",
-            "非常2.mp3",
-            "非常神奇.mp3",
-            "非常重要的.mp3",
-            "韓國瑜.mp3",
-            "館長.mp3",
-            "高雄市市長.mp3",
-            "高雄發大財.mp3",
-            "高雄要發財.mp3",
-            "魔鬼的誘惑.mp3",
-            "黑韓國瑜.mp3"
+//            "我誠心的回答.mp3",
+//            "才是個屁.mp3",
+//            "找.mp3",
+//            "接受.mp3",
+//            "搞.mp3",
+//            "搞2.mp3",
+//            "放眼世界.mp3",
+//            "政治.mp3",
+//            "斯.mp3",
+//            "是個屁.mp3",
+//            "正.mp3",
+//            "比較.mp3",
+//            "沒有水準.mp3",
+//            "沒有辦法.mp3",
+//            "沒關係.mp3",
+//            "洗澡.mp3",
+//            "漫威.mp3",
+//            "漫威公司.mp3",
+//            "漫畫.mp3",
+//            "激.mp3",
+//            "無聊透頂.mp3",
+//            "然後.mp3",
+//            "然後勒.mp3",
+//            "生命力全部放出來.mp3",
+//            "生命力放出來以後.mp3",
+//            "發大財.mp3",
+//            "的.mp3",
+//            "監督.mp3",
+//            "看.mp3",
+//            "眼睛瞎了嗎.mp3",
+//            "硬.mp3",
+//            "立足台灣.mp3",
+//            "站在這裡.mp3",
+//            "站起來.mp3",
+//            "第一優先.mp3",
+//            "等等.mp3",
+//            "經.mp3",
+//            "老斯.mp3",
+//            "而且.mp3",
+//            "胸懷大陸.mp3",
+//            "自經區.mp3",
+//            "舒服.mp3",
+//            "行動.mp3",
+//            "覺得很感動.mp3",
+//            "觀光客.mp3",
+//            "認真.mp3",
+//            "誠心.mp3",
+//            "說.mp3",
+//            "說實在的.mp3",
+//            "護理師.mp3",
+//            "讓.mp3",
+//            "負.mp3",
+//            "財力.mp3",
+//            "質詢.mp3",
+//            "跳起來.mp3",
+//            "軍人.mp3",
+//            "較.mp3",
+//            "送小抄.mp3",
+//            "還沒有完全釋放出來.mp3",
+//            "那.mp3",
+//            "都是.mp3",
+//            "都會.mp3",
+//            "都要說.mp3",
+//            "醫生.mp3",
+//            "釋放出來.mp3",
+//            "重點.mp3",
+//            "野獸的行為.mp3",
+//            "鋼鐵人.mp3",
+//            "長.mp3",
+//            "長2.mp3",
+//            "關心.mp3",
+//            "阿.mp3",
+//            "雞.mp3",
+//            "雞腿.mp3",
+//            "非.mp3",
+//            "非常.mp3",
+//            "非常2.mp3",
+//            "非常神奇.mp3",
+//            "非常重要的.mp3",
+//            "韓國瑜.mp3",
+//            "館長.mp3",
+//            "高雄市市長.mp3",
+//            "高雄發大財.mp3",
+//            "高雄要發財.mp3",
+//            "魔鬼的誘惑.mp3",
+//            "黑韓國瑜.mp3"
     };
 
     List<Map<String, Object>> items = new ArrayList<>();
     MediaPlayer[] players;
     MediaPlayer backgroundPlayer;
+    SimpleAdapter adapter;
 
     GridView grid;
     @Override
     protected void onCreate(Bundle savedInstanceState) {
         super.onCreate(savedInstanceState);
-        players = new MediaPlayer[filename.length];
         setContentView(R.layout.activity_main);
+
+        players = new MediaPlayer[filename.length];
+        grid = findViewById(R.id.grid);
         Toolbar toolbar = (Toolbar) findViewById(R.id.toolbar);
         setSupportActionBar(toolbar);
-        for(int i = 0; i < filename.length; ++i) {
+
+        adapter = new SimpleAdapter(MainActivity.this, items, R.layout.grid_item, new String[]{"title"},
+                new int[]{R.id.text});
+
+        grid.setOnItemClickListener(new AdapterView.OnItemClickListener() {
+            @Override
+            public void onItemClick(AdapterView<?> parent, View view, int position, long id) {
+                //[+position] +的功用是?
+//                Toast.makeText(MainActivity.this, "你選取了" + filename[position], Toast.LENGTH_SHORT).show();
+                if (players[position].isPlaying()) {
+                    players[position].seekTo(0);
+                } else {
+                    players[position].start();
+                }
+            }
+        });
+
+
+
+    }
+
+    @Override
+    protected void onResume() {
+        super.onResume();
+
+        for (int i = 0; i < filename.length; ++i) {
             String t = filename[i];
             Map<String, Object> item = new HashMap<>();
             item.put("title", t.substring(0, t.length()-4));
@@ -214,7 +242,7 @@ public class MainActivity extends AppCompatActivity {
                 AssetFileDescriptor fd = getAssets().openFd(t);
                 players[i] = new MediaPlayer();
                 players[i].setDataSource(fd.getFileDescriptor(), fd.getStartOffset(), fd.getLength());
-                players[i].prepare();
+                players[i].prepareAsync();
             } catch (IOException e) {
                 e.printStackTrace();
             }
@@ -222,25 +250,21 @@ public class MainActivity extends AppCompatActivity {
             items.add(item);
         }
 
-
-        SimpleAdapter adapter = new SimpleAdapter(MainActivity.this, items, R.layout.grid_item, new String[]{"title"},
-                new int[]{R.id.text});
-        grid = (GridView) findViewById(R.id.grid);
         grid.setAdapter(adapter);
-        grid.setOnItemClickListener(new AdapterView.OnItemClickListener() {
-            @Override
-            public void onItemClick(AdapterView<?> parent, View view, int position, long id) {
-                //[+position] +的功用是?
-//                Toast.makeText(MainActivity.this, "你選取了" + filename[position], Toast.LENGTH_SHORT).show();
-                if(players[position].isPlaying())
-                    players[position].seekTo(0);
-                else
-                    players[position].start();
-            }
-        });
-
         backgroundPlayer = MediaPlayer.create(this, R.raw.thuglifebeat90pm);
         backgroundPlayer.start();
+    }
+
+    @Override
+    protected void onPause() {
+        super.onPause();
+
+        for (int i = 0 ; i < filename.length ; ++i) {
+            players[i].release();
+        }
+
+        backgroundPlayer.stop();
+        backgroundPlayer.release();
     }
 
     @Override
